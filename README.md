@@ -19,6 +19,7 @@
 - [MapEz](https://github.com/Typh0n12/MapEz)
 - [YTUtility](https://github.com/Typh0n12/YTUtility)
 - [PDFtoAudio](https://github.com/Typh0n12/PDFtoAudio)
+- [SpotifyPlaylistDownloader](https://github.com/Typh0n12/SpotifyPlaylistDownloader)
 - [And many more](https://github.com/Typh0n12?tab=repositories)
 
 <h3 align="center">Connect with me</h3>
