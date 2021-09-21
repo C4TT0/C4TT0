@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about ReactJS
 - Football / Gaming
 - You can contact me via my socials given below
-- Interested to work on Frontend and Python projects
+- Interested to work on Frontend, Backend and Python projects
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Typh0n12&show_icons=true&locale=en&layout=compact" alt="Typh0n12" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Typh0n12&show_icons=true&locale=en" alt="Typh0n12" /></p>
