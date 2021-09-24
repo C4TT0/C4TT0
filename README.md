@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey it's Typh0n12 here !</h1>
-<h4 align="center">I am a 13 y/o aspiring Bioinformatics scientist. For now, i love to build Websites, discord bots and automate tasks with python. I look forward to try and learn new technologies and use them in my projects.</h4>
+<h4 align="center">I am a 13 y/o aspiring Full stack Web Developer. For now, i love to build Websites, discord bots and automate tasks with python. I look forward to try and learn new technologies and use them in my projects.</h4>
 
 
 - Visit my website: https://typh0n12.github.io/
