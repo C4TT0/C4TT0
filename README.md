@@ -23,7 +23,6 @@
 - [And many more](https://github.com/Typh0n12?tab=repositories)
 
 <h3 align="center">Connect with me</h3>
-- Instagram : https://www.instagram.com/__typh0n__.js/
 <br>
 - Discord : https://discord.com/users/779562023188430849
 <!---
