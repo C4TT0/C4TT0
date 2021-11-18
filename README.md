@@ -56,12 +56,12 @@ C4TT0@github:~$ ./welcome.sh
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=C4TT0&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="C4TT0's GitHub Stats" />
 </a>
 
-<a href="https://github.com/C4TT0/C4TT0">
+<a href="https://github.com/C4TT0/SpotifyPlaylistDownloader">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C4TT0&repo=SpotifyPlaylistDownloader&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/C4TT0/C4TT0">
+<a href="https://github.com/C4TT0/YTUtility">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C4TT0&repo=YTUtility&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
