@@ -15,7 +15,7 @@ C4TT0@github:~$ ./welcome.sh
                 ||     ||
 ```
 
-<h4 align="center">I'm C4TT0, a 13 y/o aspiring Penetration Tester. For now, i love to build Websites and automate tasks with python. I'm from India and currently in High School.</h4>
+<h4 align="center">I'm C4TT0, a 13 y/o aspiring Full Stack Web Developer. For now, i love to build Websites and automate tasks with python. I'm from India and currently in High School.</h4>
 
 <hr>
 <br>
