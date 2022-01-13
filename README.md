@@ -24,7 +24,7 @@ C4TT0@github:~$ ./welcome.sh
 
 - Visit my website: Well, its still in development
 - 🔭 I’m currently competing in [JuniorSkills 2021](https://worldskillsindia.co.in/juniorskills2021/)
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning about JS Apis
 - My Hobbies includes Football and Gaming
 - You can contact me via my socials given below
 - Interested to work on Frontend, Backend and Python projects
