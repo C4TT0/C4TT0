@@ -15,7 +15,7 @@ C4TT0@github:~$ ./welcome.sh
                 ||     ||
 ```
 
-<h4 align="justify">Hello, my name is C A T, and I'm a Web Developer from India. My interest in Web development stems
+<h4 align="justify">Hello, I'm C A T, a Web Developer from India. My interest in Web development stems
                         from my expertise and understanding of the subject. I'd want to work on projects with others and
                         learn new technologies. As a side hustle, I do freelance.</h4>
 
