@@ -22,9 +22,8 @@ C4TT0@github:~$ ./welcome.sh
 <hr>
 <br>
 
-- Visit my website: Well, its still in development
-- 🔭 I’m currently competing in [JuniorSkills 2021](https://worldskillsindia.co.in/juniorskills2021/)
-- 🌱 I’m currently learning about JS Apis
+- Visit my portfolio: https://c4tt0.github.io/Portfolio/
+- 🌱 I’m currently learning about MERN Stack
 - My Hobbies includes Football and Gaming
 - You can contact me via my socials given below
 - Interested to work on Frontend, Backend and Python projects
@@ -33,7 +32,6 @@ C4TT0@github:~$ ./welcome.sh
 
 ## <img src="https://media1.giphy.com/media/jNNUsQaAx0myWAXw1h/giphy.gif?cid=ecf05e47wtqycw9n2f7gp5kg2qqi9lqzukd9f32f583q1nhs&rid=giphy.gif" width="50"> Technologies & Tools
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -64,7 +62,7 @@ C4TT0@github:~$ ./welcome.sh
 
 
 <a href="https://github.com/C4TT0/YTUtility">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C4TT0&repo=YTUtility&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=C4TT0&repo=periodic-table&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <hr>
